@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\uploads\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:uploads\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\bookresearchapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:bookresearchapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\.dockerignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:.dockerignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\business\\implementationofservices\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:business\\implementationofservices\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\business\\implementationofservices\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:business\\implementationofservices\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\dataaccess\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:dataaccess\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\core\\interfaces\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:core\\interfaces\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\business\\implementationofservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:business\\implementationofservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\business\\implementationofservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:business\\implementationofservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\business\\implementationofservices\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:business\\implementationofservices\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp\\business\\implementationofservices\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CF0B9-3978-4D27-AE5B-EC4F5E9BCFFB}|BookResearchApp.csproj|solutionrelative:business\\implementationofservices\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3C35-06F2-4426-A0C7-66C7C3FAB394}|..\\BookResearchApp.Tests\\BookResearchApp.Tests.csproj|c:\\users\\mustafa\\source\\repos\\bookresearchapp.tests\\services\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T16:55:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Uploads\\.gitkeep",
+              "RelativeDocumentMoniker": "Uploads\\.gitkeep",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Uploads\\.gitkeep",
+              "RelativeToolTip": "Uploads\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T16:44:03.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAswFIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:39:45.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T12:29:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookResearchApp.http",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\BookResearchApp.http",
+              "RelativeDocumentMoniker": "BookResearchApp.http",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\BookResearchApp.http",
+              "RelativeToolTip": "BookResearchApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-08T12:27:25.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T12:26:07.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T12:23:20.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T12:22:28.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-08T12:21:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Core\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Core\\Entities\\Review.cs",
+              "RelativeToolTip": "Core\\Entities\\Review.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:57:41.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:54:39.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:54:14.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:53:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:53:47.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:51:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:50:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\DataAccess\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\DataAccess\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:50:41.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Core\\Interfaces\\Services\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Services\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Core\\Interfaces\\Services\\IReviewService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Services\\IReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:50:35.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\EmailService.cs",
+              "RelativeDocumentMoniker": "Business\\ImplementationOfServices\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\EmailService.cs",
+              "RelativeToolTip": "Business\\ImplementationOfServices\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:42:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\ImplementationOfServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\UserService.cs",
+              "RelativeToolTip": "Business\\ImplementationOfServices\\UserService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowE4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:42:29.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Business\\ImplementationOfServices\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\ReviewService.cs",
+              "RelativeToolTip": "Business\\ImplementationOfServices\\ReviewService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:42:25.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\CommentService.cs",
+              "RelativeDocumentMoniker": "Business\\ImplementationOfServices\\CommentService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\CommentService.cs",
+              "RelativeToolTip": "Business\\ImplementationOfServices\\CommentService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:42:23.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Business\\ImplementationOfServices\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\AuthorService.cs",
+              "RelativeToolTip": "Business\\ImplementationOfServices\\AuthorService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwFQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:42:03.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\BookService.cs",
+              "RelativeDocumentMoniker": "Business\\ImplementationOfServices\\BookService.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp\\Business\\ImplementationOfServices\\BookService.cs",
+              "RelativeToolTip": "Business\\ImplementationOfServices\\BookService.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwM0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:41:59.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp.Tests\\Services\\BookServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\BookResearchApp.Tests\\Services\\BookServiceTests.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\BookResearchApp.Tests\\Services\\BookServiceTests.cs",
+              "RelativeToolTip": "..\\BookResearchApp.Tests\\Services\\BookServiceTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwHwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:35:53.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
